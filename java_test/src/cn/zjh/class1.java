@@ -7,4 +7,7 @@ public class class1 {
         System.out.println("3333333333");
         System.out.println("444444444444");
     }
+    public void test(){
+        System.out.println("1555555555555");
+    }
 }
