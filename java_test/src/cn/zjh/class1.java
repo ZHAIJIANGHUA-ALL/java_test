@@ -10,5 +10,6 @@ public class class1 {
     }
     public void test(){
         System.out.println("1555555555555");
+
     }
 }
